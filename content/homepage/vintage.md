@@ -1,9 +1,9 @@
 ---
 title: Vintage
 draft: false
-slogan: We are all in the gutter, but some of us are looking at the stars.
-imgLeft: images/hero-left.jpg
-imgRight: images/hero-right.jpg
+slogan: Fly as high as you want. Run as far as you wish. But whenever you require a place to return, we will always be there. 
+imgLeft: images/cay.jpeg
+imgRight: images/sancaulong.jpg
 
 weight: 4
 widget:

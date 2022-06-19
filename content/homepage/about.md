@@ -1,8 +1,8 @@
 ---
-title: Example Author
+title: 3+ cựu Học sinh Năng Khiếu
 draft: false
-role: Example Role
-avatar: images/icon.png
+role: organization
+avatar: images/3hsnk.png
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
   name: Example Organization
