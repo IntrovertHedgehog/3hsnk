@@ -1,7 +1,7 @@
 ---
 title: "Unnamed"
 date: 2022-07-17T12:19:50+08:00
-draft: true
+draft: false
 description: past, present, or future. I dont fcking know :)))
 toc: true
 authors:
