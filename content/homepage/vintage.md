@@ -1,7 +1,7 @@
 ---
 title: Vintage
 draft: false
-slogan: Fly as high as you want. Run as far as you wish. But whenever you require a place to return, we will always be there. 
+slogan: Fly as high as you want. Run as far as you wish. Whenever you require a place to return, we will always be there. 
 imgLeft: images/cay.jpeg
 imgRight: images/sancaulong.jpg
 
